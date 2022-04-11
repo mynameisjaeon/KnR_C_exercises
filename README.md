@@ -3,3 +3,4 @@ This is a github repository intended to familiarize myself with the coding envir
 
 ### List of codes: 
 1. setbits.c - exercise 2-6
+2. invert.c  - exercise 2-7
