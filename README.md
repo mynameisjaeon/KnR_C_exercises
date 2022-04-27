@@ -6,3 +6,4 @@ This is a github repository intended to familiarize myself with the coding envir
 2. invert.c     - exercise 2-7
 3. rightrot.c   - exercise 2-8
 4. bitcount.c   - exercise 2-9
+5. lower.c      - exercise 2-10
