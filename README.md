@@ -7,3 +7,4 @@ This is a github repository intended to familiarize myself with the coding envir
 3. rightrot.c   - exercise 2-8
 4. bitcount.c   - exercise 2-9
 5. lower.c      - exercise 2-10
+7. escape.c     - exercise 3-2
