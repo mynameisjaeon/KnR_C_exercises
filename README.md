@@ -9,3 +9,4 @@ This is a github repository intended to familiarize myself with the coding envir
 5. lower.c      - exercise 2-10
 7. escape.c     - exercise 3-2
 8. expand.c     - exercise 3-3
+9. itoa.c       - exercise 3-4
