@@ -1,5 +1,5 @@
-# KnR_C_exercises
-This is a github repository intended to familiarize myself with the coding environment
+# KnR_C_exercises - solutions
+
 
 ### List of codes: 
 
