@@ -18,3 +18,5 @@ exercise 3-2   escape.c
 exercise 3-3   expand.c     
 
 exercise 3-4   itoa.c 
+
+exercise 3-5   itob.c
