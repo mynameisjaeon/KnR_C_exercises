@@ -20,3 +20,5 @@ exercise 3-3   expand.c
 exercise 3-4   itoa.c 
 
 exercise 3-5   itob.c
+
+exercise 4-1   strindex.c
